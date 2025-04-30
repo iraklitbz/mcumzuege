@@ -53,6 +53,10 @@ const services = ref(
           </h1>
           <h2 class="font-display text-2xl font-bold tracking-tighter text-blue-600 sm:text-3xl">Rundum Service fur ein schoneres Zuhause</h2>
 
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-5">
+            <nuxt-img alt="" class="" src="1.jpeg" />
+            <nuxt-img alt="" class="" src="2.jpeg" />
+          </div>
           <div class="text-md flex flex-col gap-5 mt-5 text-blue-900 tracking-tighter">
             <p>Grundreinigung Unterhaltsreinigung, Terrassen und steinreinigung,Fensterreinigung, Haushaltshilfe, Teppich- und Polsterreinigung, Bauendreinigung, PV Anlagen Reinigung, Fassaden Reinigung, Treppenhaus Reinigung</p>
             <p>Regelmäßige Gartenpflege, Rasermähen, Hecken schneiden, Unkraut entfernen, Pflanzungen und Umgestaltungen, Erstellung von Beeten und Rabatten, Rasenansaat und -pflege, Winterdienst und Laubbeseitigung, und vieles mehr</p>
